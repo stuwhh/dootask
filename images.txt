@@ -1,0 +1,9 @@
+kuaifan/php:swoole-8.0
+nginx:alpine
+redis:alpine
+mariadb:10.7.3
+onlyoffice/documentserver:7.0.0.132
+kuaifan/fileview:4.1.0-SNAPSHOT-RC4
+jgraph/drawio:16.6.1
+jgraph/export-server
+nextcloud
